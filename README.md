@@ -1,8 +1,11 @@
 # palindromoPOO
 
 -integrantes:
-mario laurie,  
-sofia medina, 
+
+mario laurie (El codigo que quedo y el repositorio fue de este integrante),  
+
+sofia medina,
+
 benjamin salamanca 
  
 Concluimos que el método toma un String, define un auxiliar que es el mismo string pero con los caracteres en orden invertido, finalmente retorna un boolean que corresponde a la comparación de ambos String, devolviendo true y son iguales o un false en caso contrario.
